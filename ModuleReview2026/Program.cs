@@ -52,7 +52,7 @@ namespace ModuleReview2026
 
             builder.Services.AddScoped<ModuleService>();
 
-
+            // Adding a comment just to prove GitHub Commits
 
             var app = builder.Build();
 
