@@ -53,6 +53,7 @@ namespace ModuleReview2026
             builder.Services.AddScoped<ModuleService>();
 
 
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
